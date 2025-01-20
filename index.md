@@ -1,14 +1,12 @@
-## Quick Links  
-- [Research](#research)  
-- [Publications](#publications)  
-- [CV](#cv)  
-- [Personal Interests](#personal-interests)  
-
----
+# Welcome to Yuxuan's Homepage!
 
 ## Contact  
 - [Email Me](mailto:yy503@cam.ac.uk)  
 - [My ORCID Profile](https://orcid.org/0000-0001-6816-0682)  [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6816--0682-green)](https://orcid.org/0000-0001-6816-0682)  
+
+---
+## CV  
+[View my CV](Yuxuan_CV.pdf) 
 
 ---
 
@@ -19,11 +17,7 @@ My research focuses on star formation and galaxy formation, particularly in conn
 
 ---
 ## Thesis
-[Honours thesis](Honours_thesis.pdf)
-
----
-## CV  
-[View my CV](Yuxuan_CV.pdf) 
+[Honours thesis](Honours_thesis.pdf) 
 
 ---
 
