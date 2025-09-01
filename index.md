@@ -1,5 +1,3 @@
-# Welcome to Yuxuan's Homepage!
-
 ## Contact  
 - [Email Me](mailto:yy503@cam.ac.uk)  
 - [My ORCID Profile](https://orcid.org/0000-0001-6816-0682)  [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6816--0682-green)](https://orcid.org/0000-0001-6816-0682)  
