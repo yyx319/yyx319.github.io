@@ -10,6 +10,3 @@ My research focuses on star formation and galaxy formation, particularly in conn
 [Honours thesis]({{ site.baseurl }}/files/Honours_thesis.pdf) 
 [PhD thesis](https://www.repository.cam.ac.uk/items/91600786-e409-4c3a-b812-aa4a87ad0a93)
 
-## Talks and conferences
-[Winds from starburst galaxy M82]({{ site.baseurl }}/astro_talk/wind_in_m82/wind_in_m82.pptx)
-[Lyα emission as a sensitive probe of galactic mergers and reionization]({{ site.baseurl }}/astro_talk/Lya_talk/lya_claw.pptx)
