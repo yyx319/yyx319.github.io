@@ -1,4 +1,7 @@
 ---
+title: Education
+permalink: /education/
+---
 
 ## Education
 
@@ -15,4 +18,3 @@
 
 - **Beijing Institute of Technology** – Applied Physics  
   *2016 – 2018*
-
